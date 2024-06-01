@@ -1,0 +1,5 @@
+crear un array de 9 posiciones llenado con null
+
+crear un componente "squere" el cual tendra la funcion de mostrar el valor del array (x,y)
+este componente tendra 4 valores, el index, childre(valor), updateboard(actulizar el componente)
+
